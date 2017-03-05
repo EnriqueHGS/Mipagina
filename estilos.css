@@ -1,0 +1,22 @@
+body{
+	background:url(../css/calaveras.jpg);
+	}
+.pini{
+	color:white;
+	}
+.pkin{
+	color:#64479F;
+	font-family:"Arial";
+	font-size:150%;
+	border: 8px dotted;
+	}
+.h1{
+	font-weight: normal;
+	color:white;
+	}
+.fdk{
+	background:url(../css/fdkinder.jpg);
+	height:1000px;
+	width:1500;
+	}
+
