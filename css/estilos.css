@@ -28,6 +28,18 @@ body{
 	font-size:150%;
 	border: 8px dotted;
 	}
+.puni{
+	color:#162625;
+	font-family:"Arial";
+	font-size:150%;
+	border: 8px dotted;
+	}
+.pmet{
+	color:#181F35;
+	font-family:"Arial";
+	font-size:150%;
+	border: 8px dotted;
+	}
 .h1{
 	font-weight: normal;
 	color:white;
@@ -48,5 +60,11 @@ body{
 	background:url(../css/fdpreparatoria.jpg);
 	background-size:100% 100%;
 	}
-height:1000px;
-	width:1500;
+.fduni{
+	background:url(../css/fduniversidad.jpg);
+	background-size:100% 100%;
+	}
+.fdmet{
+	background:url(../css/fdmetas.jpg);
+	background-size:100% 100%;
+	}
