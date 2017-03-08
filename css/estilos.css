@@ -1,70 +1,13 @@
 body{
-	background:url(../css/calaveras.jpg);
+	background-image:url(../css/fdprincipal.jpg);
+	background-repeat:not-repeat;
+	background-size:100% 100%;
 	}
 .pini{
 	color:white;
+	font-size:30px;
 	}
-.pkin{
-	color:#64479F;
-	font-family:"Arial";
-	font-size:150%;
-	border: 8px dotted;
-	}
-.ppri{
-	color:#F73310;
-	font-family:"Arial";
-	font-size:150%;
-	border: 8px dotted;
-	}
-.psec{
-	color:#D22159;
-	font-family:"Arial";
-	font-size:150%;
-	border: 8px dotted;
-	}
-.pprep{
-	color:#FAF8F8;
-	font-family:"Arial";
-	font-size:150%;
-	border: 8px dotted;
-	}
-.puni{
-	color:#162625;
-	font-family:"Arial";
-	font-size:150%;
-	border: 8px dotted;
-	}
-.pmet{
-	color:#181F35;
-	font-family:"Arial";
-	font-size:150%;
-	border: 8px dotted;
-	}
-.h1{
-	font-weight: normal;
+
+h1{
 	color:white;
-	}
-.fdk{
-	background:url(../css/fdkinder.jpg);
-	background-size:100% 100%;
-	}
-.fdpri{
-	background:url(../css/fdprimaria.jpg);
-	background-size:100% 100%;
-	}
-.fdsec{
-	background:url(../css/fdsecundaria.jpg);
-	background-size:100% 100%;
-	}
-.fdprepa{
-	background:url(../css/fdpreparatoria.jpg);
-	background-size:100% 100%;
-	}
-.fduni{
-	background:url(../css/fduniversidad.jpg);
-	background-size:100% 100%;
-	}
-.fdmet{
-	background:url(../css/fdmetas.jpg);
-	background-size:100% 100%;
 	}
