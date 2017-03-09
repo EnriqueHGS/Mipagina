@@ -3,11 +3,28 @@ body{
 	background-repeat:not-repeat;
 	background-size:100% 100%;
 	}
+.menu   {
+	width:100px;
+	background:#5D4B4B;  
+	list-style:none;
+	margin:0;
+	padding:0;
+	{
+
 .pini{
 	color:white;
 	font-size:30px;
+	background-color:#5D4B4;
 	}
 
 h1{
 	color:white;
+	}
+.contenido
+	{
+	border-radius:12px;
+	}
+.parrafo
+	{
+	background-color:#5D4B4;
 	}
